@@ -17,13 +17,9 @@ You can download a PDF copy of my CV [here](/files/Gokhan Mert Yagli CV 2024 UPD
 <h2> Work Experience </h2>
 
 * Research fellow, Solar Energy Research Institute of Singapore, Dec 2021--present.
-
 * Scientist, Singapore Institute of Manufacturing Technology, April 2021--Dec 2021.
-
 * Research fellow, National University of Singapore, Aug 2020--April 2021.
-
 * Ph.D. researcher, National University of Singapore, Aug 2016--Aug 2020.
-
 
 <iframe src="/files/Gokhan Mert Yagli CV 2024 UPDATED.pdf" width="100%" height="1250" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
