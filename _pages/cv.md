@@ -21,9 +21,10 @@ You can download a PDF copy of my CV [here](/files/Gokhan Mert Yagli CV 2024 UPD
 * Research fellow, National University of Singapore, Aug 2020--April 2021.
 * Ph.D. researcher, National University of Singapore, Aug 2016--Aug 2020.
 
+<!--
 <iframe src="/files/Gokhan Mert Yagli CV 2024 UPDATED.pdf" width="100%" height="1250" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-<!--
+
 Skills
 ======
 * Skill 1
