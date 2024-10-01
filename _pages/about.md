@@ -9,7 +9,7 @@ redirect_from:
 
 Hi there! I am a researcher specializing in solar resource assessment and forecasting. I enjoy not only developing research ideas but also implementing them in real-time operational products.
 
-I design, develop, and implement cutting-edge, real-time solar forecasting models tailored to the dynamic Asia Pacific region. My solar forecasting models integrate machine learning techniques with a diverse array of input data sources. By combining multiple forecasting models with an extensive dataset, I harness the power of numerical weather predictions, satellite imagery, and ground sensor readings to produce actionable, real-time solar forecasts.
+I design, develop, and implement cutting-edge, real-time solar forecasting models tailored to the dynamic Asia-Pacific region. My models combine numerical weather predictions, satellite imagery, ground sensor measurements, and machine learning to deliver the latest advancements. By integrating multiple forecasting models with extensive datasets, I produce actionable, real-time solar forecasts.
 
 I engage in solar data analysis and science all day, every day.
 
