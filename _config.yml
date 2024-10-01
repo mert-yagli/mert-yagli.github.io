@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo Gokhan Mert Yagli 2.jpg"
+  avatar           : "photo Gokhan Mert Yagli.png"
   name             : "Gokhan Mert Yagli"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Singapore"
-  employer         : "Solar Energy Research Institute of Singapore"
+  bio              : "Applied scientist specializing in solar resource assessment and forecasting."
+  location         : #"Singapore"
+  employer         : #"Solar Energy Research Institute"
   uri              : # URL
   email            : #"none@example.org" 
 
