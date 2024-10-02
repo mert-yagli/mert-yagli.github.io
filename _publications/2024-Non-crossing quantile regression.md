@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-Non-crossing quantile regression
 excerpt: '[AI-generated abstract summary] The study tackles under-dispersion and quantile crossing in ensemble numerical weather prediction (NWP) by introducing a non-crossing quantile regression neural network (NCQRNN). This method ensures reliable forecasts without crossing by using a special hidden layer. In a solar irradiance case study, NCQRNN outperformed other models, offering sharp and calibrated forecasts. Its simple design can be broadly applied to various neural networks. '
 date: 2024-03-01
-venue: 'Advances in Atmospheric Sciences '
+venue: 'Advances in Atmospheric Sciences'
 link: 'https://doi.org/10.1007/s00376-023-3184-5'
 #paperurl: 'https://doi.org/10.1007/s00376-023-3184-5'
 #citation: 'Song, Mengmeng, Dazhi Yang, Sebastian Lerch, Xiang’ao Xia, Gokhan Mert Yagli, Jamie M. Bright, Yanbo Shen, Bai Liu, Xingli Liu, and Martin János Mayer. "Non-crossing quantile regression neural network as a calibration tool for ensemble weather forecasts." Advances in Atmospheric Sciences (2024): 1-21.'

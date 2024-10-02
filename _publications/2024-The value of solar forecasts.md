@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-The value of solar forecasts
 excerpt: '[AI-generated abstract summary] This work reviews the value of solar forecasts and the impact of forecast errors on real applications, such as electricity market bidding, power system operations, and household bill reduction. It finds that while solar forecasts are valuable, their errors have significant costs, especially at the transmission level. The study provides recommendations to minimize solar uncertainty, aiding better integration of photovoltaic (PV) systems and variable generation, which can be adapted by different market operators and regulators. '
 date: 2024-11-08
-venue: 'Renewable and Sustainable Energy Reviews '
+venue: 'Renewable and Sustainable Energy Reviews'
 link: 'https://doi.org/10.1016/j.rser.2023.113915'
 #paperurl: '' #preprint PDF location
 #citation: ''

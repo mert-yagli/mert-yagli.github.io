@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2023-Predictability and forecast skill
 excerpt: '[AI-generated abstract summary] This study highlights that current solar forecast verification focuses too much on comparing methods rather than assessing how well the best method performs relative to the best possible outcome. It addresses the gap in understanding predictability and forecast skill of solar irradiance, especially in spatial distribution. By quantifying and mapping these aspects across the U.S., the study clarifies misconceptions about irradiance predictability and revisits the original formulation of the skill score. '
 date: 2023-05-19
-venue: 'Renewable and Sustainable Energy Reviews '
+venue: 'Renewable and Sustainable Energy Reviews'
 link: 'https://doi.org/10.1016/j.rser.2023.113359'
 #paperurl: '' #preprint PDF location
 #citation: ''
