@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can download a PDF copy of my CV [here](/files/Gokhan Mert Yagli CV 2024 UPDATED.pdf).
+<!-- You can download a PDF copy of my CV [here](/files/Gokhan Mert Yagli CV 2024 UPDATED.pdf). -->
 
 <h2> Education </h2>
 
